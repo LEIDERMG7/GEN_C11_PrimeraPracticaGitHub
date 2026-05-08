@@ -30,19 +30,18 @@ Sistema de gestión de turnos médicos desarrollado en Java ☕
 ## 🖥️ Menú del Sistema
 
        🏥 CLINICAAPP — MENÚ 🏥
+- 1.Registrar paciente
+- 2.Registrar médico
+- 3.Asignar turno
+- 4.Listar turnos del día
+- 5.Cancelar turno
+- 6.Ver turnos por médico
+- 7.Ver turnos por paciente
+- 8.Cambiar estado de turno
+- 9.Listar pacientes
+- 10.Listar médicos
 
-  1️⃣  Registrar paciente
-  2️⃣  Registrar médico
-  3️⃣  Asignar turno
-  4️⃣  Listar turnos del día
-  5️⃣  Cancelar turno
-  6️⃣  Ver turnos por médico
-  7️⃣  Ver turnos por paciente
-  8️⃣  Cambiar estado de turno
-  9️⃣  Listar pacientes
-  🔟  Listar médicos
-
-  0️⃣  Salir
+- 0.Salir
 
 
 
